@@ -8,10 +8,10 @@ this is new project
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos, this is for demo 
 
 ## Deployment
 
-This is the new deployment 
+This is the new deployment , for conflict
 
 ## How to contribute
