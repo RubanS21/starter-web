@@ -15,3 +15,6 @@ Sample website with plenty of files for demos, this is for demo
 This is the new deployment , for conflict
 
 ## How to contribute
+
+## Copyright
+this si copyright session 
